@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,22 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-website-using-css-flex-Bwm7FdfMwH)
+- Live Site URL: (https://favourachara07.github.io/Frontend-projects/)
 
 ## My process
 
@@ -96,15 +83,14 @@ I wish to become better and more experienced in the making of resusable CSS clas
 
 ### Useful resources
 
-- [Visual Studio Code and it extensions](https://www.example.com) - This application and its packages helped me to organize my code. I also liked this application and will always use it going forward.
+- [Visual Studio Code and it extensions](https://code.visualstudio.com) - This application and its packages helped me to organize my code. I also liked this application and will always use it going forward.
 
 
 ## Author
 
-- Website - [Favour Achara](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Favour Achara](https://favourachara07.github.io/personal_projects/)
+- Frontend Mentor - [@favourachara07](https://www.frontendmentor.io/profile/favourachara07)
+- Twitter - [@favour2207](https://www.twitter.com/favour2207)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
